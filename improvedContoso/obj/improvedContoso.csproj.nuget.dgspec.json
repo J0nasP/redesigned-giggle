@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonas/vscode-projects/improvedContoso/improvedContoso.csproj": {}
+    "/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/improvedContoso.csproj": {}
   },
   "projects": {
-    "/home/jonas/vscode-projects/improvedContoso/improvedContoso.csproj": {
+    "/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/improvedContoso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonas/vscode-projects/improvedContoso/improvedContoso.csproj",
+        "projectUniqueName": "/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/improvedContoso.csproj",
         "projectName": "improvedContoso",
-        "projectPath": "/home/jonas/vscode-projects/improvedContoso/improvedContoso.csproj",
+        "projectPath": "/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/improvedContoso.csproj",
         "packagesPath": "/home/jonas/.nuget/packages/",
-        "outputPath": "/home/jonas/vscode-projects/improvedContoso/obj/",
+        "outputPath": "/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonas/.nuget/NuGet/NuGet.Config"

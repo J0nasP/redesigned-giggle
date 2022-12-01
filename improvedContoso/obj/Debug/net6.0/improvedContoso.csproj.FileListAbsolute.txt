@@ -1,0 +1,8 @@
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.csproj.AssemblyReference.cache
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.AssemblyInfoInputs.cache
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.AssemblyInfo.cs
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.csproj.CoreCompileInputs.cache
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.MvcApplicationPartsAssemblyInfo.cache
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.RazorAssemblyInfo.cache
+/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/obj/Debug/net6.0/improvedContoso.RazorAssemblyInfo.cs

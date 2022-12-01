@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OSpulSs3J3LDpT5Aa7/o9XMbv+9FIE+yPgltqG3mq/LCs2bMlurj0vr9MAJQFwd3V680/lu1rTPy+3oTCL63EQ==",
+  "dgSpecHash": "ddShq+7yquqNIjTGNGwApPDxOuVx7R3RdJhRviNkFmglVLR/oWsTjspN+BotUA2qd47RrA7L1Ovn9MadHAOwVw==",
   "success": true,
-  "projectFilePath": "/home/jonas/vscode-projects/improvedContoso/improvedContoso.csproj",
+  "projectFilePath": "/home/jonas/vscode-projects/redesigned-giggle/improvedContoso/improvedContoso.csproj",
   "expectedPackageFiles": [
     "/home/jonas/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/home/jonas/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
