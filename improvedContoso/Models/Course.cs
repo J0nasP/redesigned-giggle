@@ -9,7 +9,7 @@ namespace improvedContoso.Models {
         
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         [Display(Name ="Number")]
-        public int? CourseID { get; set; }
+        public int CourseID { get; set; }
         
         [StringLength(50, MinimumLength =3)]
         public string? Title { get; set; }
@@ -19,8 +19,8 @@ namespace improvedContoso.Models {
 
         public int DepartmentID { get; set; }
 
-        public Department Department { get; set; }
-        public ICollection<Enrollment> Enrollment { get; set; }
-        public ICollection<CourseAssignment> CourseAssignments { get; set; }
+        public Department? Department { get; set; }
+        public ICollection<Enrollment>? Enrollment { get; set; }
+        public ICollection<CourseAssignment>? CourseAssignments { get; set; }
     }
 }

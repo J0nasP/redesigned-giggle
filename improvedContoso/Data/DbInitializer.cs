@@ -20,21 +20,21 @@ namespace improvedContoso.Data
 
             var students = new Student[]
             {
-                new Student { FirstMidName = "Carson",   LastName = "Alexander",
+                new Student { FirstName = "Carson",   LastName = "Alexander",
                     EnrollmentDate = DateTime.Parse("2010-09-01") },
-                new Student { FirstMidName = "Meredith", LastName = "Alonso",
+                new Student { FirstName = "Meredith", LastName = "Alonso",
                     EnrollmentDate = DateTime.Parse("2012-09-01") },
-                new Student { FirstMidName = "Arturo",   LastName = "Anand",
+                new Student { FirstName = "Arturo",   LastName = "Anand",
                     EnrollmentDate = DateTime.Parse("2013-09-01") },
-                new Student { FirstMidName = "Gytis",    LastName = "Barzdukas",
+                new Student { FirstName = "Gytis",    LastName = "Barzdukas",
                     EnrollmentDate = DateTime.Parse("2012-09-01") },
-                new Student { FirstMidName = "Yan",      LastName = "Li",
+                new Student { FirstName = "Yan",      LastName = "Li",
                     EnrollmentDate = DateTime.Parse("2012-09-01") },
-                new Student { FirstMidName = "Peggy",    LastName = "Justice",
+                new Student { FirstName = "Peggy",    LastName = "Justice",
                     EnrollmentDate = DateTime.Parse("2011-09-01") },
-                new Student { FirstMidName = "Laura",    LastName = "Norman",
+                new Student { FirstName = "Laura",    LastName = "Norman",
                     EnrollmentDate = DateTime.Parse("2013-09-01") },
-                new Student { FirstMidName = "Nino",     LastName = "Olivetto",
+                new Student { FirstName = "Nino",     LastName = "Olivetto",
                     EnrollmentDate = DateTime.Parse("2005-09-01") }
             };
 
@@ -43,15 +43,15 @@ namespace improvedContoso.Data
 
             var instructors = new Instructor[]
             {
-                new Instructor { FirstMidName = "Kim",     LastName = "Abercrombie",
+                new Instructor { FirstName = "Kim",     LastName = "Abercrombie",
                     HireDate = DateTime.Parse("1995-03-11") },
-                new Instructor { FirstMidName = "Fadi",    LastName = "Fakhouri",
+                new Instructor { FirstName = "Fadi",    LastName = "Fakhouri",
                     HireDate = DateTime.Parse("2002-07-06") },
-                new Instructor { FirstMidName = "Roger",   LastName = "Harui",
+                new Instructor { FirstName = "Roger",   LastName = "Harui",
                     HireDate = DateTime.Parse("1998-07-01") },
-                new Instructor { FirstMidName = "Candace", LastName = "Kapoor",
+                new Instructor { FirstName = "Candace", LastName = "Kapoor",
                     HireDate = DateTime.Parse("2001-01-15") },
-                new Instructor { FirstMidName = "Roger",   LastName = "Zheng",
+                new Instructor { FirstName = "Roger",   LastName = "Zheng",
                     HireDate = DateTime.Parse("2004-02-12") }
             };
 

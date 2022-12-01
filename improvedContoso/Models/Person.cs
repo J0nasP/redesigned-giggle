@@ -6,7 +6,7 @@ namespace improvedContoso.Models {
 
     public abstract class Person {
 
-        public int Id { get; set; }
+        public int ID { get; set; }
         
 
         [Required]
