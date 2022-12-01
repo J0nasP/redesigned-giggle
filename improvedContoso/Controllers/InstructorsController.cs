@@ -166,7 +166,7 @@ namespace improvedContoso.Controllers
             if (await TryUpdateModelAsync<Instructor>(
                 instructorToUpdate,
                 "",
-                i => i.FirstMidName, i => i.LastName, i => i.HireDate, i => i.OfficeAssignment))
+                i => i.FirstName, i => i.LastName, i => i.HireDate, i => i.OfficeAssignment))
             {
                 if (String.IsNullOrWhiteSpace(instructorToUpdate.OfficeAssignment?.Location))
                 {
