@@ -4,13 +4,13 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ContosoUniversity.Models;
+using improvedContoso.Models;
 using Microsoft.EntityFrameworkCore;
-using ContosoUniversity.Data;
-using ContosoUniversity.Models.SchoolViewModels;
+using improvedContoso.Data;
+using improvedContoso.Models.SchoolViewModels;
 using System.Data.Common;
 
-namespace ContosoUniversity.Controllers
+namespace improvedContoso.Controllers
 {
     public class HomeController : Controller
     {
